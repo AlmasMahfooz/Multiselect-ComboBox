@@ -27,14 +27,7 @@ Multiselect ComboBox In Canvas App
 
 
 Video
-
-https://github.com/AlmasMahfooz/Multiselect-ComboBox/blob/main/Images/multiselect%20combobox.mp4
-
-
-
-
-<video src="images/multiselect%20combobox.mp4" width="320" height="240" controls></video>
-
+https://github.com/AlmasMahfooz/Multiselect-ComboBox/blob/main/Images/multiselect%20combobox.gif
 
 
 
