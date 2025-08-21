@@ -31,7 +31,8 @@ Multiselect ComboBox In Canvas App
 
 
 
-https://github.com/AlmasMahfooz/Multiselect-ComboBox/blob/main/Images/multiselectcombobox.gif
+![hippo](https://github.com/AlmasMahfooz/Multiselect-ComboBox/blob/main/Images/multiselectcombobox.gif)
+
 
 
 
